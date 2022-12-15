@@ -1,0 +1,9 @@
+[submodule "operating-system-raspberrypios"]
+	path = operating-system-raspberrypios
+	url = ../operating-system-raspberrypios
+[submodule "operating-system-posix"]
+	path = operating-system-posix
+	url = ../operating-system-posix
+[submodule "tool-linux"]
+	path = tool-linux
+	url = ../tool-linux
